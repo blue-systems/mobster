@@ -1,2 +1,0 @@
-scp ubuntu@kubuntu.plasma-mobile.org:kubuntu/mobster/* .
-rm *~
