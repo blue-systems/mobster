@@ -2,7 +2,7 @@
 Plasma Mobile Neon IMG
 ======================
 
-current base: vivid
-current Qt: 5.5
-current Frameworks: 5.17
-current Plasma: 5.5.3
+current base: xenial
+current Qt: 5.7
+current Frameworks: 5.24
+current Plasma: 5.7.90
